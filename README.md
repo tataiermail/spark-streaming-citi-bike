@@ -8,7 +8,7 @@ Integrated Data Pipeline using Spark Batch and Structured Streaming for NYC Bike
 * Cloud Agnostic Data Pipeline
 * Streamlined approach for Batch & Streaming Data
 
-https://ibb.co/bdtCrLw
+![](https://ibb.co/bdtCrLw)
 
 ### Data Source
 * **[https://www.citibikenyc.com/system-data](https://www.citibikenyc.com/system-data)**
