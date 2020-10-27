@@ -1,6 +1,6 @@
 
 # spark-streaming-citi-bike
-Integrated Data Pipeline using Spark Batch and Structured Streaming for NYC Bike Rental provided by Citi.
+Integrated Data Pipeline using: Spark Batch and Structured Streaming for NYC Bike Rental data, provided by Citi.
 
 ### Objectives
 * Static Analysis of Historical New York City Bike-ride & Station Data
